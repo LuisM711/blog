@@ -1,0 +1,31 @@
+body {
+
+}
+h1,h2,h3,h4 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+ul,li {
+	text-align: center;
+}
+.logo_uas {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+}
+img {
+	width: 100%;
+}
+#top {
+	background-color: var(--bs-blue);
+	font-weight: bold;
+	padding: 5px;
+}
+.logo_antiguo {
+	width: 70%;
+}
+.parrafo_top {
+	font-size: 10px;
+}
