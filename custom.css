@@ -35,12 +35,17 @@ img {
 	background-color: var(--bs-blue);
 	font-weight: bold;
 	padding: 5px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
 }
 .logo_antiguo {
 	width: 70%;
 }
 .parrafo_top {
-	font-size: 10px;
+	font-size: 90%;
+	font-weight: 500;
 }
 .texto_grande {
 	font-weight: bold;
@@ -52,6 +57,9 @@ img {
 }
 .linea {
 	margin: 0 auto;
+}
+#imagenes_top {
+	margin-top: 100px;
 }
 #imagenes_top .col {
 	border: 0;
